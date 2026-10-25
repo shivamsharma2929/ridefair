@@ -1,0 +1,4 @@
+Time,Device,Battery (%),Network,Ride Type,Route ID,Fare (₹),Source,Notes
+,iPhone,60,Wi-Fi 5 GHz,Unknown,Unknown,120.0,Sample data,
+2026-10-25T11:14:27,iPhone,4,Mobile Data,Uber Premier,route -23,100.0,Sample data,
+2026-10-25T11:15:07,iPhone,4,Mobile Data,Uber Premier,route -23,100.0,Real quote,
